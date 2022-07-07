@@ -11,7 +11,7 @@ Here you will find 3 files that are available to download.
 
 I have also provided a MyBinder where you can interact with the notebooks right from your browser.
 - Here is the link to MyBinder:
-  - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamAngelSH/AngelInTech/tree/main/Rock_Paper_Scissors/HEAD)
+  - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamAngelSH/AngelInTech/tree/main/Rock_Paper_Scissors/main)
 
 You can also follow along here in this tutorial.
 - [YOUTUBE LINK COMING SOON](https://github.com/iamAngelSH)
