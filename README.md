@@ -5,8 +5,8 @@ Hello Python Enthusiasts 👋
 In this repo I have included project tutorials, python snippets, python interview Qs, and other python related things.
 
 I hope you have fun and learn! If you would like to contribute:
-- Send me an [email](mailto:angelash303@gmail.com) with subject line `Contributing to AngelInTech` a brief description of what you would like to do!
-- Send me a DM on [twitter](https://twitter.com/iamAngelSH).
+- Send me an [email](mailto:angelash303@gmail.com) with subject line `Contributing to AngelInTech` and a brief description of what you would like to add!
+- Send me a DM on [twitter](https://twitter.com/iamAngelSH) with your contribution.
 
 I have also included a MyBinder that you can access to interact with the content on this repo. 
 -   - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamAngelSH/AngelInTech/HEAD)
