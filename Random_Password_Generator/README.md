@@ -20,11 +20,12 @@ You can also follow along here in this tutorial.
 
 If you would like to contribute to this project, feel free to create a pull request and I will be able to look at it.
 
-Connect with me on:
-- [Twitter](https://twitter.com/@iamAngelSH)
-- [LinkedIn](https://www.linkedin.com/in/angelsantanahernandez/)
-- [Hashnode](https://iamangelsh.hashnode.dev/)
-- [YouTube: COMING SOON]()
+CONNECT WITH ME 🤝
+- Follow me on [Twitter @iamAngelSH](https://twitter.com/iamAngelSH)
+- Follow me on [Github @iamAngelSH](https://github.com/iamAngelSH)
+- Follow me on [Hashnode @iamAngelSH](https://iamangelsh.hashnode.dev/)
+- Connect with me on [LinkedIn @Angel Santana Hernandez](https://www.linkedin.com/in/angelsantanahernandez/)
+- Subscribe to my [Youtube @Angel In Tech](https://www.youtube.com/channel/UC_wflkTmHOsQ0gTrDhOs7bQ?sub_confirmation=1)
 
 
 
