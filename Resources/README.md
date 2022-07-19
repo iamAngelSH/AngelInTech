@@ -1,9 +1,10 @@
 Resources for Tech Related Content
 ---
 
-Welcome friends, here you will find a collection of resources for tech related things. 
+Welcome friends, here you will find a collection of resources for tech related things. As of now we have the following:
 - Programming Languages:
   - Python
+    - [Python Resources For Beginners](https://github.com/iamAngelSH/AngelInTech/blob/main/Resources/Python_beginners.md)
   
   
 <br>
