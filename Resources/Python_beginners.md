@@ -1,4 +1,4 @@
-<h1 align='center'>Python For Beginners</h1>
+<h1 align='center'>Python For EVERYONE</h1>
 
 ## Welcome to Python for Beginners.
 Here you can find a collection of resources that I have gathered and talked about in my youtube videos.
@@ -12,7 +12,7 @@ Here you can find a collection of resources that I have gathered and talked abou
   - python.org's very own step by step tutorial called The Python Tutorial. It's a great document that has 15 chapters of in-depth detail of all the basic concepts, features, and it comes with examples that help you understand how to get started.
 
 #### CODECADEMY
--[Codecademy: Python 2](https://www.codecademy.com/learn/learn-python?utm_source=pepperjam&utm_medium=affiliate&utm_term=215171&clickId=4026979937&pj_creativeid=8-12462&pj_publisherid=215171)
+- [Codecademy: Python 2](https://www.codecademy.com/learn/learn-python?utm_source=pepperjam&utm_medium=affiliate&utm_term=215171&clickId=4026979937&pj_creativeid=8-12462&pj_publisherid=215171)
   - Codecademy has a variety of courses that come with certifications once you finish. As for python, their Python 2 course, it is free and has over 15 lessons, over 7 projects, and over 5 quizzes. This is all free and it will guide you with great detail from beginning to end.
 
 #### FreeCode Camp
@@ -24,3 +24,18 @@ Here you can find a collection of resources that I have gathered and talked abou
 #### Udacity
 [Udacity: Intro to Python](https://www.udacity.com/course/introduction-to-python--ud1110)
   - This course is part of the Data Analyst track, and you get to learn python for free. Udacity is recommended by a lot of my peers both from university and self taugh paths.
+
+##### PYnative (Python Programming)
+- [PYnative Exercises](https://pynative.com/python-exercises-with-solutions/)
+    - They give you hints, examples, and provide you with the solution once you are ready. Another great feature is that they provide you with their own Online Code Editor
+
+
+##### Python Exercises provided by w3resource
+- [w3resource Python Exercises](https://www.w3resource.com/python-exercises/)
+    - w3resource is another great place to learn programming languages and it also offers a lot of great exercises for python. They provide over 300 problems and solutions for you try out and test your knowledge.
+    
+
+#### Practice Python
+- [Practice Python Exercises](https://www.practicepython.org/)
+    - This particular website has a range of practice exercises that covers a lot of what you can do with python.
+
